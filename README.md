@@ -1,2 +1,0 @@
-# UCI-Bootcamp
-Khersi
